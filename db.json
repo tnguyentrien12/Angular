@@ -1,0 +1,40 @@
+{
+  "categories": [
+      {
+          "id": 1,
+          "name": "sách kinh tế"
+      },
+      {
+          "id": 2,
+          "name": "sách bói toán"
+      }
+  ],
+  "books": [
+      {
+          "id": 1,
+          "title": "Quai Vat",
+          "price": 150000,
+          "categoryId": 1,
+          "authorId": 1,
+          "image": "https://lh3.googleusercontent.com/proxy/V-qP8vDxtUYTDNBZXO1yewhn7nb0fcwUCyUxZnnIh7BSGniyjqUSHA3fHen2PjJXjepuRH87hVq3DKFSfd0Dmv9ZxENJj5Vf5ksydW1YPtytoxHxdmgIXwG-aVsHRILziGY"
+      },
+      {
+          "id": 2,
+          "title": "Không Gian",
+          "price": 155800,
+          "categoryId": 2,
+          "authorId": 1,
+          "image": "https://phunuvietnam.mediacdn.vn/thumb_w/700/179072216278405120/2021/2/21/nhung-dua-tre-nhay-voi-cong-chieng-1613872729167255494496-0-92-1160-1948-crop-1613872881351543381834.jpg"
+      }
+  ],
+  "authors": [
+      {
+          "id": 1,
+          "name": "Đỗ Đăng Khoa"
+      },
+      {
+          "id": 2,
+          "name": "Lê Đỗ Quỳnh Hương"
+      }
+  ]
+}
